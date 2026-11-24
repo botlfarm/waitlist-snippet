@@ -1,0 +1,634 @@
+{
+  "version": 1,
+  "generatedAtIso": "2026-11-24T19:08:18.251Z",
+  "generatedAtDisplay": "Nov 24, 2026, 2:08 PM EST",
+  "timezone": "America/New_York",
+  "weeks": 3,
+  "paused": false,
+  "pausedMessage": "Availability is currently unknown — please check back soon for upcoming pickup dates.",
+  "headerTitle": "Upcoming Pickup Availability — Eggs",
+  "headerText": "",
+  "footerText": "Quantities are approximate estimates subject to daily farm harvest.",
+  "showSameDay": true,
+  "cutoffRules": [],
+  "autoAdvanceToday": true,
+  "singleItemName": "Eggs",
+  "calendarDays": [
+    {
+      "date": "2026-11-23",
+      "displayDate": "Nov 23",
+      "weekdayLabel": "Mon",
+      "isoWeekday": 1,
+      "isPast": true,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [],
+      "items": []
+    },
+    {
+      "date": "2026-11-24",
+      "displayDate": "Nov 24",
+      "weekdayLabel": "Tue",
+      "isoWeekday": 2,
+      "isPast": false,
+      "isToday": true,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 4,
+          "approxLabel": "Available (~4 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "displayDate": "Nov 25",
+      "weekdayLabel": "Wed",
+      "isoWeekday": 3,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Farm Store"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 4,
+          "approxLabel": "Available (~4 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "displayDate": "Nov 26",
+      "weekdayLabel": "Thu",
+      "isoWeekday": 4,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 4,
+          "approxLabel": "Available (~4 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "displayDate": "Nov 27",
+      "weekdayLabel": "Fri",
+      "isoWeekday": 5,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 8,
+          "approxLabel": "Available (~8 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "displayDate": "Nov 28",
+      "weekdayLabel": "Sat",
+      "isoWeekday": 6,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Farm Store"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 12,
+          "approxLabel": "Available (~12 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "displayDate": "Nov 29",
+      "weekdayLabel": "Sun",
+      "isoWeekday": 7,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 16,
+          "approxLabel": "Available (~16 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "displayDate": "Nov 30",
+      "weekdayLabel": "Mon",
+      "isoWeekday": 1,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 20,
+          "approxLabel": "Available (~20 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
+      "displayDate": "Dec 1",
+      "weekdayLabel": "Tue",
+      "isoWeekday": 2,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 24,
+          "approxLabel": "Available (~24 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "displayDate": "Dec 2",
+      "weekdayLabel": "Wed",
+      "isoWeekday": 3,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Farm Store"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 28,
+          "approxLabel": "Available (~28 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "displayDate": "Dec 3",
+      "weekdayLabel": "Thu",
+      "isoWeekday": 4,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 32,
+          "approxLabel": "Available (~32 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-04",
+      "displayDate": "Dec 4",
+      "weekdayLabel": "Fri",
+      "isoWeekday": 5,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 36,
+          "approxLabel": "Available (~36 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-05",
+      "displayDate": "Dec 5",
+      "weekdayLabel": "Sat",
+      "isoWeekday": 6,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Farm Store"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 40,
+          "approxLabel": "Available (~40 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-06",
+      "displayDate": "Dec 6",
+      "weekdayLabel": "Sun",
+      "isoWeekday": 7,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 44,
+          "approxLabel": "Available (~44 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-07",
+      "displayDate": "Dec 7",
+      "weekdayLabel": "Mon",
+      "isoWeekday": 1,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 48,
+          "approxLabel": "Available (~48 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-08",
+      "displayDate": "Dec 8",
+      "weekdayLabel": "Tue",
+      "isoWeekday": 2,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 52,
+          "approxLabel": "Available (~52 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-09",
+      "displayDate": "Dec 9",
+      "weekdayLabel": "Wed",
+      "isoWeekday": 3,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Farm Store"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 54,
+          "approxLabel": "Available (~54 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "displayDate": "Dec 10",
+      "weekdayLabel": "Thu",
+      "isoWeekday": 4,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 58,
+          "approxLabel": "Available (~58 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "displayDate": "Dec 11",
+      "weekdayLabel": "Fri",
+      "isoWeekday": 5,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 62,
+          "approxLabel": "Available (~62 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "displayDate": "Dec 12",
+      "weekdayLabel": "Sat",
+      "isoWeekday": 6,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Farm Store"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 66,
+          "approxLabel": "Available (~66 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-13",
+      "displayDate": "Dec 13",
+      "weekdayLabel": "Sun",
+      "isoWeekday": 7,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "New Haven"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 70,
+          "approxLabel": "Available (~70 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "displayDate": "Dec 14",
+      "weekdayLabel": "Mon",
+      "isoWeekday": 1,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 74,
+          "approxLabel": "Available (~74 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-15",
+      "displayDate": "Dec 15",
+      "weekdayLabel": "Tue",
+      "isoWeekday": 2,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 78,
+          "approxLabel": "Available (~78 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-16",
+      "displayDate": "Dec 16",
+      "weekdayLabel": "Wed",
+      "isoWeekday": 3,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Farm Store"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 82,
+          "approxLabel": "Available (~82 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-17",
+      "displayDate": "Dec 17",
+      "weekdayLabel": "Thu",
+      "isoWeekday": 4,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 86,
+          "approxLabel": "Available (~86 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "displayDate": "Dec 18",
+      "weekdayLabel": "Fri",
+      "isoWeekday": 5,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 90,
+          "approxLabel": "Available (~90 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "displayDate": "Dec 19",
+      "weekdayLabel": "Sat",
+      "isoWeekday": 6,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Farm Store",
+        "Sturbridge"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 94,
+          "approxLabel": "Available (~94 dozens)"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-20",
+      "displayDate": "Dec 20",
+      "weekdayLabel": "Sun",
+      "isoWeekday": 7,
+      "isPast": false,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [
+        "Self Serve",
+        "Windham County"
+      ],
+      "items": [
+        {
+          "trackedItemId": 1,
+          "itemName": "Eggs",
+          "unitLabel": "dozens",
+          "status": "Available",
+          "approxAvailable": 98,
+          "approxLabel": "Available (~98 dozens)"
+        }
+      ]
+    }
+  ]
+}
