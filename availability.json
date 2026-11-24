@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAtIso": "2026-11-24T19:10:30.680Z",
-  "generatedAtDisplay": "Nov 24, 2026, 2:10 PM EST",
+  "generatedAtIso": "2026-11-24T19:11:34.681Z",
+  "generatedAtDisplay": "Nov 24, 2026, 2:11 PM EST",
   "timezone": "America/New_York",
   "weeks": 3,
   "paused": false,
@@ -10,7 +10,17 @@
   "headerText": "",
   "footerText": "Quantities are approximate estimates subject to daily farm harvest.",
   "showSameDay": true,
-  "cutoffRules": [],
+  "cutoffRules": [
+    {
+      "id": "cutoff-1795547481845-208",
+      "enabled": true,
+      "mode": "days_before",
+      "daysBefore": 1,
+      "cutoffWeekday": 5,
+      "cutoffTime": "16:00",
+      "pickupWeekdays": []
+    }
+  ],
   "autoAdvanceToday": true,
   "singleItemName": "Eggs",
   "calendarDays": [
@@ -32,7 +42,7 @@
       "isoWeekday": 2,
       "isPast": false,
       "isToday": true,
-      "isOrderingClosed": false,
+      "isOrderingClosed": true,
       "channelNames": [
         "Self Serve"
       ],
