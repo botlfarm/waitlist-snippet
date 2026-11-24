@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generatedAtIso": "2026-11-24T21:06:25.989Z",
-  "generatedAtDisplay": "Nov 24, 2026, 4:06 PM EST",
+  "generatedAtIso": "2026-11-24T21:19:13.205Z",
+  "generatedAtDisplay": "Nov 24, 2026, 4:19 PM EST",
   "timezone": "America/New_York",
   "weeks": 3,
   "paused": false,
   "pausedMessage": "Availability is currently unknown — please check back soon for upcoming pickup dates.",
   "headerTitle": "Upcoming Pickup Availability — Eggs",
-  "headerText": "",
-  "footerText": "Quantities are approximate estimates subject to daily farm harvest.",
+  "headerText": "Quantities are approximate estimates subject to daily farm harvest.",
+  "footerText": "To keep as many households supplied as possible, we reserve the right to adjust order sizes or shift pickup dates. Your order is only locked in once you receive our confirmation message",
   "showSameDay": false,
   "cutoffRules": [
     {
