@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAtIso": "2026-11-25T02:49:06.148Z",
-  "generatedAtDisplay": "Nov 24, 2026, 9:49 PM EST",
+  "generatedAtIso": "2026-11-25T14:19:06.439Z",
+  "generatedAtDisplay": "Nov 25, 2026, 9:19 AM EST",
   "timezone": "America/New_York",
   "weeks": 3,
   "paused": false,
@@ -40,22 +40,11 @@
       "displayDate": "Nov 24",
       "weekdayLabel": "Tue",
       "isoWeekday": 2,
-      "isPast": false,
-      "isToday": true,
-      "isOrderingClosed": true,
-      "channelNames": [
-        "Self Serve"
-      ],
-      "items": [
-        {
-          "trackedItemId": 1,
-          "itemName": "Eggs",
-          "unitLabel": "dozens",
-          "status": "Limited",
-          "approxAvailable": 3,
-          "approxLabel": "Limited (~3 dozens)"
-        }
-      ]
+      "isPast": true,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [],
+      "items": []
     },
     {
       "date": "2026-11-25",
@@ -63,7 +52,7 @@
       "weekdayLabel": "Wed",
       "isoWeekday": 3,
       "isPast": false,
-      "isToday": false,
+      "isToday": true,
       "isOrderingClosed": true,
       "channelNames": [
         "Self Serve",
