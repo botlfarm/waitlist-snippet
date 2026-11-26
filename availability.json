@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAtIso": "2026-11-25T18:45:52.601Z",
-  "generatedAtDisplay": "Nov 25, 2026, 1:45 PM EST",
+  "generatedAtIso": "2026-11-26T05:25:43.565Z",
+  "generatedAtDisplay": "Nov 26, 2026, 12:25 AM EST",
   "timezone": "America/New_York",
   "weeks": 3,
   "paused": false,
@@ -51,23 +51,11 @@
       "displayDate": "Nov 25",
       "weekdayLabel": "Wed",
       "isoWeekday": 3,
-      "isPast": false,
-      "isToday": true,
-      "isOrderingClosed": true,
-      "channelNames": [
-        "Self Serve",
-        "Farm Store"
-      ],
-      "items": [
-        {
-          "trackedItemId": 1,
-          "itemName": "Eggs",
-          "unitLabel": "dozens",
-          "status": "Waitlist Full",
-          "approxAvailable": 0,
-          "approxLabel": "Waitlist Full"
-        }
-      ]
+      "isPast": true,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [],
+      "items": []
     },
     {
       "date": "2026-11-26",
@@ -75,8 +63,8 @@
       "weekdayLabel": "Thu",
       "isoWeekday": 4,
       "isPast": false,
-      "isToday": false,
-      "isOrderingClosed": false,
+      "isToday": true,
+      "isOrderingClosed": true,
       "channelNames": [
         "Self Serve"
       ],
