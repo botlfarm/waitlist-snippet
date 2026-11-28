@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAtIso": "2026-11-26T18:03:18.578Z",
-  "generatedAtDisplay": "Nov 26, 2026, 1:03 PM EST",
+  "generatedAtIso": "2026-11-28T03:29:55.277Z",
+  "generatedAtDisplay": "Nov 27, 2026, 10:29 PM EST",
   "timezone": "America/New_York",
   "weeks": 3,
   "paused": false,
@@ -62,6 +62,17 @@
       "displayDate": "Nov 26",
       "weekdayLabel": "Thu",
       "isoWeekday": 4,
+      "isPast": true,
+      "isToday": false,
+      "isOrderingClosed": false,
+      "channelNames": [],
+      "items": []
+    },
+    {
+      "date": "2026-11-27",
+      "displayDate": "Nov 27",
+      "weekdayLabel": "Fri",
+      "isoWeekday": 5,
       "isPast": false,
       "isToday": true,
       "isOrderingClosed": true,
@@ -73,31 +84,9 @@
           "trackedItemId": 1,
           "itemName": "Eggs",
           "unitLabel": "dozens",
-          "status": "Waitlist Full",
-          "approxAvailable": 0,
-          "approxLabel": "Waitlist Full"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-27",
-      "displayDate": "Nov 27",
-      "weekdayLabel": "Fri",
-      "isoWeekday": 5,
-      "isPast": false,
-      "isToday": false,
-      "isOrderingClosed": false,
-      "channelNames": [
-        "Self Serve"
-      ],
-      "items": [
-        {
-          "trackedItemId": 1,
-          "itemName": "Eggs",
-          "unitLabel": "dozens",
-          "status": "Waitlist Full",
-          "approxAvailable": 0,
-          "approxLabel": "Waitlist Full"
+          "status": "Available",
+          "approxAvailable": 6,
+          "approxLabel": "Available (~6 dozens)"
         }
       ]
     },
@@ -108,7 +97,7 @@
       "isoWeekday": 6,
       "isPast": false,
       "isToday": false,
-      "isOrderingClosed": false,
+      "isOrderingClosed": true,
       "channelNames": [
         "Self Serve",
         "Farm Store"
@@ -118,9 +107,9 @@
           "trackedItemId": 1,
           "itemName": "Eggs",
           "unitLabel": "dozens",
-          "status": "Waitlist Full",
-          "approxAvailable": 0,
-          "approxLabel": "Waitlist Full"
+          "status": "Limited",
+          "approxAvailable": 0.5,
+          "approxLabel": "Limited (~0.5 dozens)"
         }
       ]
     },
@@ -140,9 +129,9 @@
           "trackedItemId": 1,
           "itemName": "Eggs",
           "unitLabel": "dozens",
-          "status": "Waitlist Full",
-          "approxAvailable": 0,
-          "approxLabel": "Waitlist Full"
+          "status": "Limited",
+          "approxAvailable": 0.5,
+          "approxLabel": "Limited (~0.5 dozens)"
         }
       ]
     },
@@ -162,9 +151,9 @@
           "trackedItemId": 1,
           "itemName": "Eggs",
           "unitLabel": "dozens",
-          "status": "Limited",
-          "approxAvailable": 3,
-          "approxLabel": "Limited (~3 dozens)"
+          "status": "Available",
+          "approxAvailable": 5,
+          "approxLabel": "Available (~5 dozens)"
         }
       ]
     },
@@ -185,8 +174,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 7,
-          "approxLabel": "Available (~7 dozens)"
+          "approxAvailable": 9,
+          "approxLabel": "Available (~9 dozens)"
         }
       ]
     },
@@ -208,8 +197,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 11,
-          "approxLabel": "Available (~11 dozens)"
+          "approxAvailable": 13,
+          "approxLabel": "Available (~13 dozens)"
         }
       ]
     },
@@ -230,8 +219,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 15,
-          "approxLabel": "Available (~15 dozens)"
+          "approxAvailable": 17,
+          "approxLabel": "Available (~17 dozens)"
         }
       ]
     },
@@ -252,8 +241,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 19,
-          "approxLabel": "Available (~19 dozens)"
+          "approxAvailable": 21,
+          "approxLabel": "Available (~21 dozens)"
         }
       ]
     },
@@ -275,8 +264,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 23,
-          "approxLabel": "Available (~23 dozens)"
+          "approxAvailable": 25,
+          "approxLabel": "Available (~25 dozens)"
         }
       ]
     },
@@ -297,8 +286,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 27,
-          "approxLabel": "Available (~27 dozens)"
+          "approxAvailable": 29,
+          "approxLabel": "Available (~29 dozens)"
         }
       ]
     },
@@ -319,8 +308,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 31,
-          "approxLabel": "Available (~31 dozens)"
+          "approxAvailable": 33,
+          "approxLabel": "Available (~33 dozens)"
         }
       ]
     },
@@ -341,8 +330,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 35,
-          "approxLabel": "Available (~35 dozens)"
+          "approxAvailable": 37,
+          "approxLabel": "Available (~37 dozens)"
         }
       ]
     },
@@ -364,8 +353,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 37,
-          "approxLabel": "Available (~37 dozens)"
+          "approxAvailable": 39,
+          "approxLabel": "Available (~39 dozens)"
         }
       ]
     },
@@ -386,8 +375,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 41,
-          "approxLabel": "Available (~41 dozens)"
+          "approxAvailable": 43,
+          "approxLabel": "Available (~43 dozens)"
         }
       ]
     },
@@ -408,8 +397,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 45,
-          "approxLabel": "Available (~45 dozens)"
+          "approxAvailable": 47,
+          "approxLabel": "Available (~47 dozens)"
         }
       ]
     },
@@ -431,8 +420,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 49,
-          "approxLabel": "Available (~49 dozens)"
+          "approxAvailable": 51,
+          "approxLabel": "Available (~51 dozens)"
         }
       ]
     },
@@ -454,8 +443,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 53,
-          "approxLabel": "Available (~53 dozens)"
+          "approxAvailable": 55,
+          "approxLabel": "Available (~55 dozens)"
         }
       ]
     },
@@ -476,8 +465,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 57,
-          "approxLabel": "Available (~57 dozens)"
+          "approxAvailable": 59,
+          "approxLabel": "Available (~59 dozens)"
         }
       ]
     },
@@ -498,8 +487,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 61,
-          "approxLabel": "Available (~61 dozens)"
+          "approxAvailable": 63,
+          "approxLabel": "Available (~63 dozens)"
         }
       ]
     },
@@ -521,8 +510,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 65,
-          "approxLabel": "Available (~65 dozens)"
+          "approxAvailable": 67,
+          "approxLabel": "Available (~67 dozens)"
         }
       ]
     },
@@ -543,8 +532,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 69,
-          "approxLabel": "Available (~69 dozens)"
+          "approxAvailable": 71,
+          "approxLabel": "Available (~71 dozens)"
         }
       ]
     },
@@ -565,8 +554,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 73,
-          "approxLabel": "Available (~73 dozens)"
+          "approxAvailable": 75,
+          "approxLabel": "Available (~75 dozens)"
         }
       ]
     },
@@ -589,8 +578,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 77,
-          "approxLabel": "Available (~77 dozens)"
+          "approxAvailable": 79,
+          "approxLabel": "Available (~79 dozens)"
         }
       ]
     },
@@ -612,8 +601,8 @@
           "itemName": "Eggs",
           "unitLabel": "dozens",
           "status": "Available",
-          "approxAvailable": 81,
-          "approxLabel": "Available (~81 dozens)"
+          "approxAvailable": 83,
+          "approxLabel": "Available (~83 dozens)"
         }
       ]
     }
